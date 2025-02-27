@@ -1,3 +1,4 @@
+[![Python application test with GitHub Actions](https://github.com/albamtez/Scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/albamtez/Scaffold/actions/workflows/main.yml)
 # Scaffold
 Andamiaje para un proyecto python
 
